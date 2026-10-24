@@ -1,0 +1,17 @@
+﻿
+int coluna = 1;
+int linha = 1;
+While(vez <= 5)
+{
+ while (coluna <= 5)
+{
+    Console.Write(" * ");
+    //Console.ReadKey();
+    vez = vez + 1;
+}
+console.WriteLine ();
+
+linha = linha = 1;
+cooluna = 1;
+}
+// fim
